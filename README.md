@@ -62,8 +62,20 @@ js/
 - GitHub
 
 ---
+### 🔐 Usuário Padrão
+```Text
+E-mail:	admin@filmes.com
 
+Senha:	12345678
+```
+
+---
+### 🌐 Aplicação Web
+
+Link da Aplicação: [Biblioteca de Filmes](https://biblioteca-filmes-oat.netlify.app/)
+
+---
 
 ## 👨‍💻 Autor
 
-**Pablo Henrique**
+Desenvolvido por **Pablo Henrique**
